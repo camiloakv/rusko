@@ -6,6 +6,8 @@
 </p>
 
 <!--
+TODO: add bagging algorithms
+
 https://unidata.pro/blog/best-ml-classification-datasets/
 https://scikit-learn.org/stable/modules/ensemble.html
 https://scikit-learn.org/stable/datasets.html
@@ -19,7 +21,7 @@ https://scikit-learn.org/stable/datasets/real_world.html
 
 | Dataset | XGBoost | LightBDM | AdaBoost |
 |---|:---:|:---:|:---:|
-| **Iris** | ✅ |  |  |
+| **Iris** | ✅ | ✅ |  |
 
 
 ## Documentation
